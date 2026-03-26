@@ -9,12 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+2input ADN gate with LED on the putput
 ## How to test
 
-Explain how to use your project
-
+Use swithces to test inputs for correct outputs
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+ONe LED
